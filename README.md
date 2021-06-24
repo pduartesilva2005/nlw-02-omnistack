@@ -37,10 +37,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
 ## 🔥 Como Começar
-- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw2-omnistack.git`;
-- 2 - Entre na pasta `cd nlw2-omnistack`;
-- 3 - Rode `yarn` ou `npm install` para instalar as dependências;
-- 4 - Rode `yarn dev` ou `npm run dev` para rodar o projeto
+
+- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw-02-omnistack.git`;
+- 2 - Entre na pasta `cd nlw-02-omnistack`;
+- 3 - Rode o back-end da aplicação
+  - Entre na pasta: `cd server`;
+  - Rode `yarn` ou `npm install` para instalar as dependências;
+  - Rode `yarn dev` ou `npm run dev` para rodar o projeto
+- 3 - Rode a aplicação web
+  - Entre na pasta: `cd web`;
+  - Rode `yarn` ou `npm install` para instalar as dependências;
+  - Rode `yarn start` ou `npm start` para rodar o projeto
+- 3 - Rode a aplicação mobile
+  - Entre na pasta: `cd mobile`;
+  - Rode `yarn` ou `npm install` para instalar as dependências;
+  - Rode `yarn start` ou `npm start` para rodar o projeto
 
 ## ⚡️ Como contribuir
 
