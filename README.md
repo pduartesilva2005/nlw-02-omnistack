@@ -38,7 +38,7 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 
 ## 🔥 Como Começar
 
-- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw-02-omnistack.git`;
+- 1 - Faça um clone desse repositório `git clone https://github.com/pduartesilva2005/nlw-02-omnistack.git`;
 - 2 - Entre na pasta `cd nlw-02-omnistack`;
 - 3 - Rode o back-end da aplicação
   - Entre na pasta: `cd server`;
